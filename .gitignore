@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/layout-bulma
+layout-bulma.so
+layout-bulma.dylib
+layout-bulma.dll
+layout-bulma.a
+layout-bulma.lib
+layout-bulma-test-*
+*.exe
+*.o
+*.obj
+*.lst
